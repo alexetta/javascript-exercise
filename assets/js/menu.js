@@ -42,8 +42,7 @@ $(document).ready(function(){
 		menu.hide();
 		hamburguesa.show();	
 		
-		
-	};
+	});
 	
 
 	//He probado que cuando la ventana sea más pequeña que 990px aplique las funciones siguientes y sino que me esconda la cruz y la hamburguesa
